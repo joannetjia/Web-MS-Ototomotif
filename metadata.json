@@ -1,0 +1,7 @@
+{
+  "name": "MS Otomotif - Distributor Sparepart & Onderdil Motor",
+  "description": "Distributor resmi onderdil dan sparepart motor presisi di Indonesia dengan jaminan originalitas, stok terlengkap, dan pengiriman B2B & B2C cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
